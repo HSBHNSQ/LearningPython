@@ -9,4 +9,6 @@ print(test.strip())
 
 print(2+4)
 number = 3 ** 3
+
+
 print("3的3次方 = " + str(number))
